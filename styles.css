@@ -1,0 +1,22 @@
+img {
+	width: 200px;
+	border: 2px solid black;
+}
+
+body{
+	font-family: Verdana;
+	font-size: 14px;
+	background-color: beige;
+}
+
+.red{
+	color: blue;
+	font-size: 19px;
+}
+
+#special {
+	border: 2px solid blue;
+	background-color: yellow;
+	background-position: center;
+	width:25%;
+}
